@@ -12,6 +12,10 @@ The GPT focuses on delivering step-by-step guidance, ensuring that complex geome
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Math](https://github.com/sourceduty/Math)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
