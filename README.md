@@ -16,6 +16,8 @@ The GPT focuses on delivering step-by-step guidance, ensuring that complex geome
 [Math](https://github.com/sourceduty/Math)
 <br>
 [Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Algorithms](https://github.com/sourceduty/Algorithms)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
